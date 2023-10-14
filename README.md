@@ -17,7 +17,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, Java.
 - 🔭 I’m currently working on *[Numerical Analysis Calculator](https://github.com/Abdalrahman-Alhamod/Numeric-Calc)*
-- 🌱 I’m currently learning *[Linux](https://www.linux.com/)*
+- 🌱 I’m currently learning *[Flutter](https://flutter.dev/)*
 
 <!-- ### 📫 &nbsp;Contact
 - GnuPG public key 🔑 for encrypting mail is available [here](https://gist.github.com/0xzer0x/f60c490a0b72b7d2bdd61f8093b978ae)
