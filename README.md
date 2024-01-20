@@ -15,7 +15,7 @@
 ---
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, Java.
+- 💬 Ask me about my experience with Flutter, C++, Java.
 - 🔭 I’m currently working on *[MedHub-Mobile](https://github.com/Abdalrahman-Alhamod/MedHub-Mobile)*
 - 🌱 I’m currently learning *[Flutter](https://flutter.dev/)*
 
